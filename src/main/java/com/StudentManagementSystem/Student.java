@@ -28,7 +28,9 @@ public class Student {
 	
 	public Student() {
 		super();
-		// TODO Auto-generated constructor stub
+		this.firstName = "default";
+		this.lastName = "default";
+		this.email = "abc@gmail.com";
 	}
 
 
